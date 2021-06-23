@@ -1,0 +1,16 @@
+{
+  "name": "webopen-littlesister-qs",
+  "version": "2.0.0",
+  "description": "npm自开发的qs小模块--转换参数格式",
+  "main": "index.js",
+  "bin": {
+    "qs": "./bin/utils.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "webopen-littlesister",
+  "license": "ISC",
+  "dependencies": {}
+}
